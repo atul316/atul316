@@ -14,6 +14,7 @@
 - 📫 How to reach me **atulchowdhury316@gmail.com**
 
 - ⚡ Fun fact **I think I am a smart learner.**
+<br/>
 
 ## 🌐 Socials:
 
@@ -33,7 +34,6 @@
 
 <p align="left"> <a href="https://twitter.com/atul316_" target="blank"><img src="https://img.shields.io/twitter/follow/atul316_?logo=twitter&style=for-the-badge" alt="atul316_" /></a> </p>
 <br/>
-
 
 # 💻 Tech Stack (Languages and Tools):
 
