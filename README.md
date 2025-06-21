@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Atul Chowdhury</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Developer from BHARAT</h3>
 
 <br/>
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on [Inferror](https://inferror.com/)
+- 🔭 I’m currently working on [FULL STACK DEV]
 
 - 🌱 I’m currently learning **Backend**
 
